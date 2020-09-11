@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CodeBinder:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CodeBinder_jar</output-path>
+    <root id="archive" name="CodeBinder.jar">
+      <element id="module-output" name="CodeBinder" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../library/sqlite-jdbc-3.27.2.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
